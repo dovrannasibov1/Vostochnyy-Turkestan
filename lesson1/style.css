@@ -1,0 +1,55 @@
+.header{
+    height: 100px;
+    background-color: black;
+}
+
+.header_top{
+    color: aliceblue;
+}
+
+.header_top top2{
+    
+        color: rgb(193, 193, 221);
+        display: flex;
+        gap: 8px;
+    
+}
+
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.logo {
+    background-color: black;
+    color: #fff;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+}
+.content {
+    padding: 10px;
+    display: flex;
+    align-items: flex-end;
+}
+.blog{
+    flex: 8;
+}
+.post {
+    background-color: grey;
+    border-radius: 3px;
+    padding: 5px;
+    flex: 2;
+}
+.footer{
+    background-color: black;
+    color: #fff;
+    padding: 10px;
+    text-align: centera;
+}
+
+
+
+
+

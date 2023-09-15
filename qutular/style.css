@@ -1,0 +1,33 @@
+body {
+    background-color: #F0F0F0;
+    font-family: Arial;
+}
+.pricing-card {
+    border: 1px solid #494949;
+    padding: 20px;
+    margin-left: 90px;
+    width: 300px;
+    text-align: center;
+    float: left;
+}
+.plan-name {
+    font-size: 24px;
+    color: #333;
+}
+.description {
+    font-size: 14px;
+    color: #666;
+}
+.features {
+    margin-top: 10px;
+    padding: 0;
+    list-style-type: none;
+}
+.button {
+    background-color: #352a2b;
+    color: #fff;
+    padding: 10px 20px;
+    margin-top: 20px;
+    border: none;
+    cursor: pointer;
+}

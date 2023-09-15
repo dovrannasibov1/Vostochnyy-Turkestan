@@ -97,6 +97,7 @@
     width: 100%;
     height: 150px;
     object-fit: cover;
+    border-radius: 12px;
 
 }
 
@@ -155,7 +156,8 @@
     text-align: center;
   } 
 
-  .qeydiyyat {
-
-    
-  }
+  body {
+    background-image: url("../img/concrete_seamless.png");
+    font-family: Arial, Helvetica, sans-serif;
+}
+  
